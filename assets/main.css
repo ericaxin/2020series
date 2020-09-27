@@ -19,7 +19,7 @@ img{
 	font-size: 5vh;
 	color: #fffef2;
 	font-family: Palatino;
-	letter-spacing: 0.8vh;
+	letter-spacing: 0.5vh;
 	opacity: 70%
 }
 
@@ -47,7 +47,8 @@ img{
 	position: relative;
 	padding: 100px;
 	top: 200px;
-	padding-left: 19%
+	margin: auto;
+	margin-right: 0px
 
 }
 
@@ -102,15 +103,16 @@ img{
 }
 
 .p14{
-	padding-bottom:150px;
+	padding-bottom:0px;
 	width: 40%
 }
 
 .quote15{
 	text-align: right;
-	color: gray;
+	color: #7e88ab;
 	line-height: 150%;
 	padding-right: 30px;
-	font-size: 20px
+	font-size: 20px;
+	opacity: 40%
 }
 
